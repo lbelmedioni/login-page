@@ -256,6 +256,15 @@ form.sign-up-form {
 .title {
     font-size: 2.2rem;
     color: #444;
+    margin-bottom: 13px;
+    text-align: center;
+}
+
+h5{
+    color: #acacac;
+    font-weight: 600;
+    font-weight: 300;
+    font-size: 20px;    
     margin-bottom: 10px;
 }
 
@@ -361,7 +370,7 @@ form.sign-up-form {
     margin: 0;
     background: none;
     border: 2px solid #fff;
-    width: 130px;
+    width: 150px;
     height: 41px;
     font-weight: 600;
     font-size: 0.8rem;
